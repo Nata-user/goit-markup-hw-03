@@ -230,10 +230,10 @@ margin-right: 30px;
 }
 .section-command {
   padding-bottom: 95px;
+  padding-top: 95px; 
 }
 .section-command .section-command-heading {
   text-align: center;
-  margin-top: 95px;
   margin-bottom: 50px;
 }
 .section-command .section-command-list {
